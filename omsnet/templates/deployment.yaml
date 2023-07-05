@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: omsnet
+  name: omsnet
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: omsnet
+  template:
+    metadata:
+      labels:
+        app: omsnet
+    spec:
+      containers:
+      - image: docker.io/ianyoungjunehong/omsnet:1
+        name: omsnet
+        ports:
+        - containerPort: 80
