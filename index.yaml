@@ -19,6 +19,6 @@ entries:
     name: omsnet
     type: application
     urls:
-    - https://github.com/ianhong/helmrepo/omsnet-0.1.0.tgz
+    - https://ianhong.github.io/helmrepo/omsnet-0.1.0.tgz
     version: 0.1.0
 generated: "2023-07-04T18:57:47.46639845-07:00"
