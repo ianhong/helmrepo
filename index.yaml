@@ -3,22 +3,22 @@ entries:
   omsnet:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-07-04T18:57:47.468325464-07:00"
+    created: "2023-07-04T19:16:23.406597597-07:00"
     description: A Helm chart for Kubernetes
-    digest: 3b052a62b94eb0422a155f936eb867d6149736d55c104f778ef7d979aa971c67
+    digest: 878d884abebb37fd6c16c4740f124e03615063426fd73d1e46c11386ab3da9d0
     name: omsnet
     type: application
     urls:
     - https://ianhong.github.io/helmrepo/omsnet-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-07-04T18:07:22.737504337-07:00"
+    appVersion: 1.0.0
+    created: "2023-07-04T19:16:23.40559839-07:00"
     description: A Helm chart for Kubernetes
-    digest: 545721fe7330fbd27a6edbbef6ca3fc8582837e7fb45634756f6032a37a5b986
+    digest: 1a79f8866590d6a049c1c3be53d74212de18e02ba306e2df4b3ca830909ad455
     name: omsnet
     type: application
     urls:
     - https://ianhong.github.io/helmrepo/omsnet-0.1.0.tgz
     version: 0.1.0
-generated: "2023-07-04T18:57:47.46639845-07:00"
+generated: "2023-07-04T19:16:23.404117179-07:00"
